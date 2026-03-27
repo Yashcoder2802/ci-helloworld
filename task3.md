@@ -1,7 +1,7 @@
 # Task 3 deliverables
 
-- GitHub repo URL: https://github.com/Yashcoder2802/ci-helloworld
-- Docker Hub image URL: https://hub.docker.com/r/yashsal2802/ci-helloworld (update after first successful push)
+- GitHub repo URL: https://github.com/Yashcoder2802/ci-helloworld.git
+- Docker Hub image URL: docker.io/yashsal2802/ci-helloworld:780766a4cf7bbfffe142d6027127f5f8e52f97f6
 
 Notes:
 - Workflow is in .github/workflows/gradle.yml with fail-on-coverage-decrease and fail-on-branches-decrease enabled for jacoco-badge-generator.
