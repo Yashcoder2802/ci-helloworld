@@ -1,7 +1,7 @@
 # Task 3 deliverables
 
 - GitHub repo URL: https://github.com/Yashcoder2802/ci-helloworld.git
-- Docker Hub image URL: docker.io/yashsal2802/ci-helloworld:780766a4cf7bbfffe142d6027127f5f8e52f97f6
+- Docker Hub image URL: docker.io/yashsal2802/ci-helloworld:2f85f4dd604d34674aa0c167621ea4a3cfbc36d1
 
 Notes:
 - Workflow is in `.github/workflows/gradle.yml` and follows the CI tutorial structure: build/test, Jacoco coverage generation, and Docker publish in a separate dependent job.
